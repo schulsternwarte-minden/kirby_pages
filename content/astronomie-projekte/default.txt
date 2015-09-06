@@ -1,0 +1,12 @@
+﻿Title: Astronomie-Projekte
+
+----
+
+Text: Sammlung möglicher Projekte für AG / Unterricht
+
+<ul>
+ <li> <a href="/content/astronomie-projekte/astrofotografie_projektarbeit_felixschemmann_lennartwarner.pdf"> Einstieg in die Astrofotografie</a>, Projektarbeit aus Projektkurs 2013/14, Ratsgymnasium Minden</li>
+ <li> <a href="/content/astronomie-projekte/wis-2014-2ms-exoplaneten.pdf"> Wie findet man Expoplaneten? - Ein Unterrichtsprojekt für die Sekundarstufe I</a>, Sterne und Weltraum 2/2014, Spektrum Verlag</li>
+ <li> <a href="/content/astronomie-projekte/smartphone-als-spektrometer-selbstgebaut.pdf">Smartphone und Digitalkamera als Spektrometer - selbst gebaut </a>, PdN Physik in der Schule, Heft 6/2014, S. 20ff., Aulis Verlag</li>
+ <li> <a href="/content/astronomie-projekte/astronomie-galaxienentfernungsmessung.pdf">Jugendliche messen Entfernungen von Galaxien</a>, MINT-Zirkel Ausgaben 9+10/2013 sowie 3+4/2014, Klett-Verlag</li>
+</ul>

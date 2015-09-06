@@ -1,0 +1,17 @@
+﻿Title: Schulsternwarte Minden
+
+----
+
+Author: André Alexander Bell
+
+----
+
+Description: Schulsternwarte Minden
+
+----
+
+Keywords: Schulsternwarte, Sternwarte, Automatisierung
+
+----
+
+Copyright: © 2013-(date: Year) (link: http://sternwarte-minden.de text: Schulsternwarte Minden)

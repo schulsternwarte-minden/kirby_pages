@@ -1,0 +1,17 @@
+﻿Title: Technik
+
+----
+
+Text: ### Fakten zum Projekt Mindener Schulsternwarte
+
+Im Rahmen der Zusammenarbeit mit dem Fachbereich Technik der Fachhochschule Bielefeld wurden im Rahmen einer Projektarbeit der 6. praxisintegrierten Semester unter Leitung der Professoren Oliver Wetter und Philipp Boysen im Rahmen einer Machbarkeitsstudie die technischen Möglichkeiten bezüglich eines störungsfreien Kuppelbetriebs sowie die konzeptionelle Umsetzung als Schulsternwarte aufgezeigt.
+
+Sponsoren aus den Bereichen der praxisintegrierten Praktikums- und Partnerfirmen des Kreises Minden Lübbecke unterstützten die Machbarkeitsstudie bereitwillig mit Sach- und Zeitspenden (u.a. WAGO, Bernstein, AMS, Hettich, Endler und Kumpf, sowie weitere). Es kam durch Material- und Expertisensponsoring eine Summe von ca. 15Tsd. Euro zusammen. Die Ergebnisse sind vielversprechend: So öffnet und dreht sich die Kuppel wieder motorgesteuert und es ist ein langlebiges, professionelles Steuerungs- und Antriebskonzept umgesetzt.
+
+In 2014 werden die Studierenden in ihrem Projekt zusammen mit Prof. Wetter und Prof. Boysen die Sensorik der Kuppel verbessern. Damit kann die Kuppelsteuerung erkennen, ob die Kuppelluken offen/geschlossen sind und wie die Kuppel ausgerichtet ist. Sie kann Regen und andere widrige Verhältnisse erkennen und auf diese Art das Teleskop schützen. Auch werden die Studierenden das Teleskop mit der Kuppel koppeln, so dass sich die Kuppel bei der Beobachtung langsam mitdreht.
+
+### Vision
+
+Die Dr. Strothmann-Stiftung und die Rudloff-Stiftung haben signalisiert, dass sie die Schulsternwarte gerne mit neuer Teleskoptechnik bestücken würden. Die Stadt Minden begrüßt das Projekt Schulsternwarte nachhaltig und unterstützt es logistisch. Finanzielle Mittel für die Innenrenovierung oder Ausstattung der Sternwarte können derzeit seitens der Stadt nicht zugesagt werden.
+
+Um die nun anstehenden Herausforderungen (Definition Brandschutzkonzept, Suche nach Sponsoren für die Umsetzungsphase, technische Weiterentwicklung an Teleskop und Kuppel, Vorbereitung eines Schülergruppenmanagements) zu meistern, muss eine beständige Organisationsstruktur geschaffen werden. Aktuell koordinieren Lars Böker (Physik-Lehrer am Ratsgymnasium), Prof. Wetter (Studiengangsleiter Elektrotechnik an der FH Bielefeld/Campus Minden), sowie die astronomiebegeisterten Herren André Bell und Michael Meister das Projekt.

@@ -1,0 +1,125 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+html {
+  height: 101%;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  background:  #FFFFFF;
+  color: #777;
+  margin: 50px auto;
+  width: 950px;
+}
+a {
+  color: #222;
+  text-decoration: none;
+}
+a,
+a:hover,
+a:active,
+a:visited {
+  outline: 0px;
+}
+a:hover {
+  color: red;
+}
+img {
+  outline: 0;
+  border: 0;
+}
+#submenu {
+  width: 250px;
+  margin-right: 50px;
+  float: left;
+}
+body header img {
+//  float: left;
+//  position: relative;
+//  right: 0;
+//  padding-right: 50px;
+}
+div.rightcol > h1 {
+  font-family: 'Waiting for the Sunrise', cursive;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+  border-bottom: 1px solid red;
+}
+h1 {
+  font-size: 28px;
+  line-height: 40px;
+  color: #222;
+  padding-bottom: 20px;
+}
+h2 {
+  font-size: 28px;
+  font-weight: normal;
+  color: red;
+  margin-bottom: 21px;
+}
+h3 {
+  font-weight: normal;
+  font-size: 20px;
+  color: #222;
+  margin-bottom: 21px;
+}
+h4 {
+  color: red;
+  font-weight: normal;
+}
+p {
+  margin-bottom: 20px;
+}
+.leftcol {
+  margin-right: 50px;
+  width: 250px;
+  float: left;
+}
+.rightcol {
+  margin-left: 300px;
+}
+div.menu {
+//  overflow: hidden;
+//  border-top: 1px solid red;
+  border-bottom: 1px solid red;
+  padding: 10px 0;
+  height: 26px;
+  margin-bottom: 20px;
+}
+div.menu li {
+  list-style: none;
+  margin-right: 20px;
+  font-weight: bold;
+  float: left;
+}
+div.menu li a.active {
+  color: red;
+}
+div#nav.submenu {
+  border-top: none;
+  margin-bottom: 20px;
+}
+duv#nav.submenu a {
+  font-weight: normal;
+}
+div#section.content {
+  margin-top: 40px;
+}
+div.footer {
+  padding-top: 20px;
+  margin-top: 20px;
+  border-top: 1px solid red;
+  font-size: 13px;
+  color: #222;
+}
+div.footer a {
+  color: red;
+}
+div.footer a:hover {
+  color: #222;
+}

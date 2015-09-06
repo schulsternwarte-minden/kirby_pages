@@ -1,0 +1,7 @@
+﻿Title: Projekt Kanban Board
+
+----
+
+Text: Alle Arbeitspakete bezüglich Wartung, Instandhaltung, Erweiterung etc. werden in unserem Kanban-Board auf Trello geführt:
+
+(link: https://trello.com/b/3BJLGvAS/schulsternwarte-minden text: Trello-Board)

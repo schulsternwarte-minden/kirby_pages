@@ -1,0 +1,24 @@
+﻿Title: Erdradius
+
+----
+
+Text: Live-Experiment zur Berechnung des Erdumfanges
+24.04.09: Radio WDR 5, *Leonardo* Telefon-Live-Übertragung mit unserer Sternwarte!
+
+Anlässlich des "internationalen Sonnenpunktmessungstages" wählte der Radiosender WDR 5 
+unsere Sternwarte und die Sternwarte in Aachen als Unterstützer eines Experimentes aus.
+
+Sie wollten am 24.04.09 die Erde vermessen, wie es die alten Griechen damals schon konnten. Hierzu wurde im Laufe des Tages bei verschieden Messungen (im Zeitraum von 14:00 bis 16:10) der Schattenstand eines Gegenstandes (Stabes) gemessen.
+
+Dadurch kann man die Position der Sonne ermitteln.
+
+An der Richtung des Schattens ließ sich der Stand der Sonne ablesen.
+Die Länge des Schattens zeigte uns, wie hoch die Sonne zum jeweiligen Messzeitpunkt stand.
+
+Diese Messungen wurden zeitgleich in Aachen und Minden durchgeführt.
+Einige Schüler des Differenzierungskurses der Jahrgangsstufe 10 von Herrn Böker 
+unterstützen uns bei der Aufnahme der Werte. 
+	
+Neben dem Redakteur der Sendung Leonardo, Joachim Hecker, war der Physiker und Physikdidaktiker Prof. Dr. Udo Backhaus von der Universität Duisburg-Essen live im Studio und nahm die Ergebnisse entgegen.
+
+Er berechnete dann mit einem Computerprogramm den Erdradius.
